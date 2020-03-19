@@ -1,2 +1,2 @@
-# web-technology
+# Web technology
 Assignment 2
