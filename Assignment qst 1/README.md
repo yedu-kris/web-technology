@@ -1,4 +1,4 @@
-# Qustion
+# Question
 Create home page to explore your personal details.
 Other than personal details, it should have two buttons “My College” and “My
 Workplace”.
